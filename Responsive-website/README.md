@@ -3,7 +3,7 @@
 A clean, beautiful, and fully responsive **developer portfolio** built using **HTML** and **CSS**.  
 Later enhancements will include **JavaScript** for animations and interactive design.
 
-👉 [Live Demo](https://ajitverma15.github.io/Interactive-Portfolio/)
+👉 [Live Demo](https://m-guruvignesh.github.io/portfolio-website/Responsive-website)
 
 ---
 
@@ -34,7 +34,7 @@ Later enhancements will include **JavaScript** for animations and interactive de
 
 ## 📖 References & Credits
 
-- Original template inspiration from [Ajit Verma](https://ajitverma15.github.io/Interactive-Portfolio/)  
+- Original template inspiration from [Ajit Verma](https://github.com/AjitVerma15/Interactive-Portfolio)  
 
 > ⚖️ **Note on Attribution:**  
 This portfolio is a modified version of open‑source projects. Full credit goes to the original authors.  
