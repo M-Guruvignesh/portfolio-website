@@ -3,7 +3,7 @@
 A clean, beautiful, and fully responsive **developer portfolio** built using **HTML** and **CSS**.  
 Later enhancements will include **JavaScript** for animations and interactive design.
 
-👉 [Live Demo](https://m-guruvignesh.github.io/portfolio-website/Responsive-website)
+👉 [Live Demo](https://m-guruvignesh.github.io/portfolio-website/Portfolio.com/)
 
 ---
 
